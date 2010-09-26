@@ -6,6 +6,8 @@
 #include <QCloseEvent>
 #include <QtAlgorithms>
 
+//#define DEBUG
+
 QList<IrregularVerb> MainWindow::irregularVerbList;
 
 using namespace std;
@@ -43,12 +45,15 @@ MainWindow::MainWindow(QWidget *parent) :
         }
         file.close();
     }
-    else
-    {
-        ui->statusBar->showMessage("I couldn't open the in file \"irregularverbs.txt\".");
+
+	// Exit if irregular verbs can't be loaded.
+	if (irregularVerbList.size() == 0)
+	{
+		QMessageBox::warning(0, "Finishing application...", "An error was ocurred and the program will be closed. There are not any irregular verb in the list. Check your irregularVerbs.txt file.", QMessageBox::Close);
+		exit(0);
 	}
 
-    // Setting an irregular verb depending on order by combo box.
+	// Set an irregular verb.
     on_pushButtonSkipThis_clicked();
 }
 
@@ -154,17 +159,6 @@ void MainWindow::on_pushButtonCheckOut_clicked()
 
         on_pushButtonSkipThis_clicked();
     }
-
-    // Count fails and hits.
-    int totalFails = 0, totalHits = 0;
-    for (int i = 0; i < irregularVerbList.size(); i++)
-    {
-        totalFails += irregularVerbList.at(i).fails;
-        totalHits += irregularVerbList.at(i).hits;
-    }
-    QString aux, aux2;
-    QString message = "Fails: " + aux.setNum(totalFails) + " Hits: " + aux2.setNum(totalHits);
-    ui->statusBar->showMessage(message);
 }
 
 void MainWindow::on_pushButtonShowAnswer_clicked()
@@ -191,18 +185,16 @@ void MainWindow::on_pushButtonSkipThis_clicked()
 	ui->lineEditPastParticiple->setPalette(palette);
 
 	// Put another irregular verb from the list depending on order by combo box.
-	if (irregularVerbList.size() == 0)
-	{
-		cout << "No hay verbos irregulares" << endl;
-	}
-
 	int action = rand() % 100;
 	if (action < 20 && failedRecentlyList.size() > 0)
 	{
 		// Failed recently.
 		int random = rand() % failedRecentlyList.size();
 		currentIrregularVerb = failedRecentlyList.at(random);
+
+		#ifdef DEBUG
 		cout << "Failed recently (" << failedRecentlyList.size() << ")" << endl;
+		#endif
 	}
 	else if (action < 30)
 	{
@@ -210,19 +202,25 @@ void MainWindow::on_pushButtonSkipThis_clicked()
 		QList<IrregularVerb> auxiliarList = irregularVerbList;
 		qSort(auxiliarList.begin(), auxiliarList.end());
 		currentIrregularVerb = auxiliarList.at(0);
+
+		#ifdef DEBUG
 		cout << "Most failed" << endl;
 
 		for (int i = 0; i < 10; i++)
 		{
 			cout << auxiliarList.at(i).toString().toStdString() << endl;
 		}
+		#endif
 	}
 	else
 	{
 		// Totally random.
 		int random = rand() % irregularVerbList.size();
 		currentIrregularVerb = irregularVerbList.at(random);
+
+		#ifdef DEBUG
 		cout << "Totally random" << endl;
+		#endif
 	}
 
 	// Increase appearances.
@@ -247,6 +245,17 @@ void MainWindow::on_pushButtonSkipThis_clicked()
     // Enabling buttons.
     ui->pushButtonCheckOut->setEnabled(false);
     ui->pushButtonShowAnswer->setEnabled(true);
+
+	// Count fails and hits.
+	int totalFails = 0, totalHits = 0;
+	for (int i = 0; i < irregularVerbList.size(); i++)
+	{
+		totalFails += irregularVerbList.at(i).fails;
+		totalHits += irregularVerbList.at(i).hits;
+	}
+	QString aux, aux2;
+	QString message = "Fails: " + aux.setNum(totalFails) + " Hits: " + aux2.setNum(totalHits);
+	ui->statusBar->showMessage(message);
 }
 
 // Overwrite this method to save the file before exit the app.
@@ -288,6 +297,3 @@ void MainWindow::on_lineEditPastParticiple_returnPressed()
 {
     on_pushButtonCheckOut_clicked();
 }
-
-//TODO select a irregular verb manfully
-

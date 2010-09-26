@@ -1,6 +1,7 @@
 #include "IrregularVerb.h"
 #include <iostream>
 #include <QStringList>
+#include <stdlib.h>
 
 IrregularVerb::IrregularVerb()
 {
@@ -69,7 +70,10 @@ void IrregularVerb::addPastParticiple(QString pastParticiple)
 
 bool IrregularVerb::operator<(const IrregularVerb & another) const
 {
-	return (fails - hits)/(float) (appearances + 1) > another.fails - (another.hits)/(float) (another.appearances + 1);
+	if ((fails - hits)/(float) (appearances + 1) == another.fails - (another.hits)/(float) (another.appearances + 1))
+		return (rand() % 2) == 0 ? 1 : -1;
+	else
+		return (fails - hits)/(float) (appearances + 1) > another.fails - (another.hits)/(float) (another.appearances + 1);
 }
 
 QString IrregularVerb::toString() const
