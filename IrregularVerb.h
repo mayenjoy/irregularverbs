@@ -9,25 +9,23 @@ class IrregularVerb
 private:
     QString infinitive;
     QList<QString> past;
-    QList<QString> pastParticiple;
-    QList<QString> translation;
+	QList<QString> pastParticiple;
 
 public:
     IrregularVerb();
 
     QString getInfinitive() const;
     QString getPast() const;
-    QString getPastParticiple() const;
-    QString getTranslation() const;
+	QString getPastParticiple() const;
 
     bool isPast(QString) const;
-    bool isPastParticiple(QString) const;
-    bool isTranslation(QString) const;
+	bool isPastParticiple(QString) const;
 
     void setInfinitive(QString);
     void addPast(QString);
-    void addPastParticiple(QString);
-    void addTranslation(QString);
+	void addPastParticiple(QString);
+
+	bool operator<(const IrregularVerb & ) const;
 
     int appearances, fails, hits;
 

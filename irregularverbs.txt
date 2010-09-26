@@ -1,373 +1,373 @@
-arise arose arisen traducir 0 0 0
-awake awakened/awoke awakened/awoken traducir 0 0 0
-backslide backslid backslidden/backslid traducir 0 0 0
-be was/were been traducir 0 0 0
-bear bore born/borne traducir 0 0 0
-beat beat beaten/beat traducir 0 0 0
-become became become traducir 0 0 0
-begin began begun traducir 0 0 0
-bend bent bent traducir 0 0 0
-bet bet/betted_ bet/betted traducir 0 0 0
-bid_(farewell) bid/bade bidden traducir 0 0 0
-bid_(offer_amount) bid bid traducir 0 0 0
-bind bound bound traducir 0 0 0
-bite bit bitten traducir 0 0 0
-bleed bled bled traducir 0 0 0
-blow blew blown traducir 0 0 0
-break broke broken traducir 0 0 0
-breed bred bred traducir 0 0 0
-bring brought brought traducir 0 0 0
-broadcast broadcast/broadcasted broadcast/broadcasted traducir 0 0 0
-browbeat browbeat browbeaten/browbeat traducir 0 0 0
-build built built traducir 0 0 0
-burn burned/burnt burned/burnt traducir 0 0 0
-burst burst burst traducir 0 0 0
-bust busted/bust busted/bust traducir 0 0 0
-buy bought bought traducir 0 0 0
-cast cast cast traducir 0 0 0
-catch caught caught traducir 0 0 0
-choose chose chosen traducir 0 0 0
-cling clung clung traducir 0 0 0
-clothe clothed/clad clothed/clad traducir 0 0 0
-come came come traducir 0 0 0
-cost cost cost traducir 0 0 0
-creep crept crept traducir 0 0 0
-crossbreed crossbred crossbred traducir 0 0 0
-cut cut cut traducir 0 0 0
-daydream daydreamed/daydreamt daydreamed/daydreamt traducir 0 0 0
-deal dealt dealt traducir 0 0 0
-dig dug dug traducir 0 0 0
-disprove disproved disproved/disproven traducir 0 0 0
-dive_(jump_head-first) dove/dived dived traducir 0 0 0
-dive_(scuba_diving) dived/dove dived traducir 0 0 0
-do did done traducir 0 0 0
-draw drew drawn traducir 0 0 0
-dream dreamed/dreamt dreamed/dreamt traducir 0 0 0
-drink drank drunk traducir 0 0 0
-drive drove driven traducir 0 0 0
-dwell dwelt/dwelled dwelt/dwelled traducir 0 0 0
-eat ate eaten traducir 0 0 0
-fall fell fallen traducir 0 0 0
-feed fed fed traducir 0 0 0
-feel felt felt traducir 0 0 0
-fight fought fought traducir 0 0 0
-find found found traducir 0 0 0
-fit_(tailor,_change_size) fitted/fit fitted/fit traducir 0 0 0
-fit_(be_right_size) fit/fitted_ fit/fitted traducir 0 0 0
-flee fled fled traducir 0 0 0
-fling flung flung traducir 0 0 0
-fly flew flown traducir 0 0 0
-forbid forbade forbidden traducir 0 0 0
-forecast forecast forecast traducir 0 0 0
-forego_(also_forgo) forewent foregone traducir 0 0 0
-foresee foresaw foreseen traducir 0 0 0
-foretell foretold foretold traducir 0 0 0
-forget forgot forgotten/forgot traducir 0 0 0
-forgive forgave forgiven traducir 0 0 0
-forsake forsook forsaken traducir 0 0 0
-freeze froze frozen traducir 0 0 0
-frostbite frostbit frostbitten traducir 0 0 0
-get got gotten/got traducir 0 0 0
-give gave given traducir 0 0 0
-go went gone traducir 0 0 0
-grind ground ground traducir 0 0 0
-grow grew grown traducir 0 0 0
-hand-feed hand-fed hand-fed traducir 0 0 0
-handwrite handwrote handwritten traducir 0 0 0
-hang hung hung traducir 0 0 0
-have had had traducir 0 0 0
-hear heard heard traducir 0 0 0
-hew hewed hewn/hewed traducir 0 0 0
-hide hid hidden traducir 0 0 0
-hit hit hit traducir 0 0 0
-hold held held traducir 0 0 0
-hurt hurt hurt traducir 0 0 0
-inbreed inbred inbred traducir 0 0 0
-inlay inlaid inlaid traducir 0 0 0
-input input/inputted input/inputted traducir 0 0 0
-interbreed interbred interbred traducir 0 0 0
-interweave interwove/interweaved interwoven/interweaved traducir 0 0 0
-interwind interwound interwound traducir 0 0 0
-jerry-build jerry-built jerry-built traducir 0 0 0
-keep kept kept traducir 0 0 0
-kneel knelt/kneeled knelt/kneeled traducir 0 0 0
-knit knitted/knit knitted/knit traducir 0 0 0
-know knew known traducir 0 0 0
-lay laid laid traducir 0 0 0
-lead led led traducir 0 0 0
-lean leaned/leant leaned/leant traducir 0 0 0
-leap leaped/leapt leaped/leapt traducir 0 0 0
-learn learned/learnt learned/learnt traducir 0 0 0
-leave left left traducir 0 0 0
-lend lent lent traducir 0 0 0
-let let let traducir 0 0 0
-lie lay lain traducir 0 0 0
-lie_(not_tell_truth)_REGULAR lied lied traducir 0 0 0
-light lit/lighted lit/lighted traducir 0 0 0
-lip-read lip-read lip-read traducir 0 0 0
-lose lost lost traducir 0 0 0
-make made made traducir 0 0 0
-mean meant meant traducir 0 0 0
-meet met met traducir 0 0 0
-miscast miscast miscast traducir 0 0 0
-misdeal misdealt misdealt traducir 0 0 0
-misdo misdid misdone traducir 0 0 0
-mishear misheard misheard traducir 0 0 0
-mislay mislaid mislaid traducir 0 0 0
-mislead misled misled traducir 0 0 0
-mislearn mislearned/mislearnt mislearned/mislearnt traducir 0 0 0
-misread misread misread traducir 0 0 0
-misset misset misset traducir 0 0 0
-misspeak misspoke misspoken traducir 0 0 0
-misspell misspelled/misspelt misspelled/misspelt traducir 0 0 0
-misspend misspent misspent traducir 0 0 0
-mistake mistook mistaken traducir 0 0 0
-misteach mistaught mistaught traducir 0 0 0
-misunderstand misunderstood misunderstood traducir 0 0 0
-miswrite miswrote miswritten traducir 0 0 0
-mow mowed mowed/mown traducir 0 0 0
-offset offset offset traducir 0 0 0
-outbid outbid outbid traducir 0 0 0
-outbreed outbred outbred traducir 0 0 0
-outdo outdid outdone traducir 0 0 0
-outdraw outdrew outdrawn traducir 0 0 0
-outdrink outdrank outdrunk traducir 0 0 0
-outdrive outdrove outdriven traducir 0 0 0
-outfight outfought outfought traducir 0 0 0
-outfly outflew outflown traducir 0 0 0
-outgrow outgrew outgrown traducir 0 0 0
-outleap outleaped/outleapt outleaped/outleapt traducir 0 0 0
-outlie_(not_tell_truth)_REGULAR outlied outlied traducir 0 0 0
-outride outrode outridden traducir 0 0 0
-outrun outran outrun traducir 0 0 0
-outsell outsold outsold traducir 0 0 0
-outshine outshined/outshone outshined/outshone traducir 0 0 0
-outshoot outshot outshot traducir 0 0 0
-outsing outsang outsung traducir 0 0 0
-outsit outsat outsat traducir 0 0 0
-outsleep outslept outslept traducir 0 0 0
-outsmell outsmelled/outsmelt outsmelled/outsmelt traducir 0 0 0
-outspeak outspoke outspoken traducir 0 0 0
-outspeed outsped outsped traducir 0 0 0
-outspend outspent outspent traducir 0 0 0
-outswear outswore outsworn traducir 0 0 0
-outswim outswam outswum traducir 0 0 0
-outthink outthought outthought traducir 0 0 0
-outthrow outthrew outthrown traducir 0 0 0
-outwrite outwrote outwritten traducir 0 0 0
-overbid overbid overbid traducir 0 0 0
-overbreed overbred overbred traducir 0 0 0
-overbuild overbuilt overbuilt traducir 0 0 0
-overbuy overbought overbought traducir 0 0 0
-overcome overcame overcome traducir 0 0 0
-overdo overdid overdone traducir 0 0 0
-overdraw overdrew overdrawn traducir 0 0 0
-overdrink overdrank overdrunk traducir 0 0 0
-overeat overate overeaten traducir 0 0 0
-overfeed overfed overfed traducir 0 0 0
-overhang overhung overhung traducir 0 0 0
-overhear overheard overheard traducir 0 0 0
-overlay overlaid overlaid traducir 0 0 0
-overpay overpaid overpaid traducir 0 0 0
-override overrode overridden traducir 0 0 0
-overrun overran overrun traducir 0 0 0
-oversee oversaw overseen traducir 0 0 0
-oversell oversold oversold traducir 0 0 0
-oversew oversewed oversewn/oversewed traducir 0 0 0
-overshoot overshot overshot traducir 0 0 0
-oversleep overslept overslept traducir 0 0 0
-overspeak overspoke overspoken traducir 0 0 0
-overspend overspent overspent traducir 0 0 0
-overspill overspilled/overspilt overspilled/overspilt traducir 0 0 0
-overtake overtook overtaken traducir 0 0 0
-overthink overthought overthought traducir 0 0 0
-overthrow overthrew overthrown traducir 0 0 0
-overwind overwound overwound traducir 0 0 0
-overwrite overwrote overwritten traducir 0 0 0
-partake partook partaken traducir 0 0 0
-pay paid paid traducir 0 0 0
-plead pleaded/pled pleaded/pled traducir 0 0 0
-prebuild prebuilt prebuilt traducir 0 0 0
-predo predid predone traducir 0 0 0
-premake premade premade traducir 0 0 0
-prepay prepaid prepaid traducir 0 0 0
-presell presold presold traducir 0 0 0
-preset preset preset traducir 0 0 0
-preshrink preshrank preshrunk traducir 0 0 0
-proofread proofread proofread traducir 0 0 0
-prove proved proven/proved traducir 0 0 0
-put put put traducir 0 0 0
-quick-freeze quick-froze quick-frozen traducir 0 0 0
-quit quit/quitted quit/quitted traducir 0 0 0
-read read read traducir 0 0 0
-reawake reawoke reawaken traducir 0 0 0
-rebid rebid rebid traducir 0 0 0
-rebind rebound rebound traducir 0 0 0
-rebroadcast rebroadcast/rebroadcasted rebroadcast/rebroadcasted traducir 0 0 0
-rebuild rebuilt rebuilt traducir 0 0 0
-recast recast recast traducir 0 0 0
-recut recut recut traducir 0 0 0
-redeal redealt redealt traducir 0 0 0
-redo redid redone traducir 0 0 0
-redraw redrew redrawn traducir 0 0 0
-refit_(replace_parts) refit/refitted refit/refitted traducir 0 0 0
-refit_(retailor) refitted/refit refitted/refit traducir 0 0 0
-regrind reground reground traducir 0 0 0
-regrow regrew regrown traducir 0 0 0
-rehang rehung rehung traducir 0 0 0
-rehear reheard reheard traducir 0 0 0
-reknit reknitted/reknit reknitted/reknit traducir 0 0 0
-relay_(for_example_tiles) relaid relaid traducir 0 0 0
-relay_(pass_along)_REGULAR relayed relayed traducir 0 0 0
-relearn relearned/relearnt relearned/relearnt traducir 0 0 0
-relight relit/relighted relit/relighted traducir 0 0 0
-remake remade remade traducir 0 0 0
-repay repaid repaid traducir 0 0 0
-reread reread reread traducir 0 0 0
-rerun reran rerun traducir 0 0 0
-resell resold resold traducir 0 0 0
-resend resent resent traducir 0 0 0
-reset reset reset traducir 0 0 0
-resew resewed resewn/resewed traducir 0 0 0
-retake retook retaken traducir 0 0 0
-reteach retaught retaught traducir 0 0 0
-retear retore retorn traducir 0 0 0
-retell retold retold traducir 0 0 0
-rethink rethought rethought traducir 0 0 0
-retread retread retread traducir 0 0 0
-retrofit retrofitted/retrofit retrofitted/retrofit traducir 0 0 0
-rewake rewoke/rewaked rewaken/rewaked traducir 0 0 0
-rewear rewore reworn traducir 0 0 0
-reweave rewove/reweaved rewoven/reweaved traducir 0 0 0
-rewed rewed/rewedded rewed/rewedded traducir 0 0 0
-rewet rewet/rewetted rewet/rewetted traducir 0 0 0
-rewin rewon rewon traducir 0 0 0
-rewind rewound rewound traducir 0 0 0
-rewrite rewrote rewritten traducir 0 0 0
-rid rid rid traducir 0 0 0
-ride rode ridden traducir 0 0 0
-ring rang rung traducir 0 0 0
-rise rose risen traducir 0 0 0
-roughcast roughcast roughcast traducir 0 0 0
-run ran run traducir 0 0 0
-sand-cast sand-cast sand-cast traducir 0 0 0
-saw sawed sawed/sawn traducir 0 0 0
-say said said traducir 0 0 0
-see saw seen traducir 0 0 0
-seek sought sought traducir 0 0 0
-sell sold sold traducir 0 0 0
-send sent sent traducir 0 0 0
-set set set traducir 0 0 0
-sew sewed sewn/sewed traducir 0 0 0
-shake shook shaken traducir 0 0 0
-shave shaved shaved/shaven traducir 0 0 0
-shear sheared sheared/shorn traducir 0 0 0
-shed shed shed traducir 0 0 0
-shine shined/shone shined/shone traducir 0 0 0
-shit shit/shat/shitted shit/_shat/shitted traducir 0 0 0
-shoot shot shot traducir 0 0 0
-show showed shown/showed traducir 0 0 0
-shrink shrank/shrunk shrunk traducir 0 0 0
-shut shut shut traducir 0 0 0
-sight-read sight-read sight-read traducir 0 0 0
-sing sang sung traducir 0 0 0
-sink sank/sunk sunk traducir 0 0 0
-sit sat sat traducir 0 0 0
-slay_(kill) slew/slayed slain/slayed traducir 0 0 0
-slay_(amuse)_REGULAR slayed slayed traducir 0 0 0
-sleep slept slept traducir 0 0 0
-slide slid slid traducir 0 0 0
-sling slung slung traducir 0 0 0
-slink slinked/slunk slinked/slunk traducir 0 0 0
-slit slit slit traducir 0 0 0
-smell smelled/smelt smelled/smelt traducir 0 0 0
-sneak sneaked/snuck sneaked/snuck traducir 0 0 0
-sow sowed sown/sowed traducir 0 0 0
-speak spoke spoken traducir 0 0 0
-speed sped/speeded sped/speeded traducir 0 0 0
-spell spelled/spelt spelled/spelt traducir 0 0 0
-spend spent spent traducir 0 0 0
-spill spilled/spilt spilled/spilt traducir 0 0 0
-spin spun spun traducir 0 0 0
-spit spit/spat spit/spat traducir 0 0 0
-split split split traducir 0 0 0
-spoil spoiled/spoilt spoiled/spoilt traducir 0 0 0
-spoon-feed spoon-fed spoon-fed traducir 0 0 0
-spread spread spread traducir 0 0 0
-spring sprang/sprung sprung traducir 0 0 0
-stand stood stood traducir 0 0 0
-steal stole stolen traducir 0 0 0
-stick stuck stuck traducir 0 0 0
-sting stung stung traducir 0 0 0
-stink stunk/stank stunk traducir 0 0 0
-strew strewed strewn/strewed traducir 0 0 0
-stride strode stridden traducir 0 0 0
-strike_(delete) struck stricken traducir 0 0 0
-strike_(hit) struck struck/stricken traducir 0 0 0
-string strung strung traducir 0 0 0
-strive strove/strived striven/strived traducir 0 0 0
-sublet sublet sublet traducir 0 0 0
-sunburn sunburned/sunburnt sunburned/sunburnt traducir 0 0 0
-swear swore sworn traducir 0 0 0
-sweat sweat/sweated sweat/sweated traducir 0 0 0
-sweep swept swept traducir 0 0 0
-swell swelled swollen/swelled traducir 0 0 0
-swim swam swum traducir 0 0 0
-swing swung swung traducir 0 0 0
-take took taken traducir 0 0 0
-teach taught taught traducir 0 0 0
-tear tore torn traducir 0 0 0
-telecast telecast telecast traducir 0 0 0
-tell told told traducir 0 0 0
-test-drive test-drove test-driven traducir 0 0 0
-test-fly test-flew test-flown traducir 0 0 0
-think thought thought traducir 0 0 0
-throw threw thrown traducir 0 0 0
-thrust thrust thrust traducir 0 0 0
-tread trod trodden/trod traducir 0 0 0
-typecast typecast typecast traducir 0 0 0
-typeset typeset typeset traducir 0 0 0
-typewrite typewrote typewritten traducir 0 0 0
-unbend unbent unbent traducir 0 0 0
-unbind unbound unbound traducir 0 0 0
-unclothe unclothed/unclad unclothed/unclad traducir 0 0 0
-underbid underbid underbid traducir 0 0 0
-undercut undercut undercut traducir 0 0 0
-underfeed underfed underfed traducir 0 0 0
-undergo underwent undergone traducir 0 0 0
-underlie underlay underlain traducir 0 0 0
-undersell undersold undersold traducir 0 0 0
-underspend underspent underspent traducir 0 0 0
-understand understood understood traducir 0 0 0
-undertake undertook undertaken traducir 0 0 0
-underwrite underwrote underwritten traducir 0 0 0
-undo undid undone traducir 0 0 0
-unfreeze unfroze unfrozen traducir 0 0 0
-unhang unhung unhung traducir 0 0 0
-unhide unhid unhidden traducir 0 0 0
-unknit unknitted/unknit unknitted/unknit traducir 0 0 0
-unlearn unlearned/unlearnt unlearned/unlearnt traducir 0 0 0
-unsew unsewed unsewn/unsewed traducir 0 0 0
-unsling unslung unslung traducir 0 0 0
-unspin unspun unspun traducir 0 0 0
-unstick unstuck unstuck traducir 0 0 0
-unstring unstrung unstrung traducir 0 0 0
-unweave unwove/unweaved unwoven/unweaved traducir 0 0 0
-unwind unwound unwound traducir 0 0 0
-uphold upheld upheld traducir 0 0 0
-upset upset upset traducir 0 0 0
-wake woke/waked woken/waked traducir 0 0 0
-waylay waylaid waylaid traducir 0 0 0
-wear wore worn traducir 0 0 0
-weave wove/weaved woven/weaved traducir 0 0 0
-wed wed/wedded wed/wedded traducir 0 0 0
-weep wept wept traducir 0 0 0
-wet wet/wetted wet/wetted traducir 0 0 0
-whet_REGULAR whetted whetted traducir 0 0 0
-win won won traducir 0 0 0
-wind wound wound traducir 0 0 0
-withdraw withdrew withdrawn traducir 0 0 0
-withhold withheld withheld traducir 0 0 0
-withstand withstood withstood traducir 0 0 0
-wring wrung wrung traducir 0 0 0
-write wrote written traducir 0 0 0
+arise arose arisen 0 0 0
+awake awakened/awoke awakened/awoken 0 0 0
+backslide backslid backslidden/backslid 0 0 0
+be was/were been 0 0 0
+bear bore born/borne 0 0 0
+beat beat beaten/beat 0 0 0
+become became become 0 0 0
+begin began begun 0 0 0
+bend bent bent 0 0 0
+bet bet/betted_ bet/betted 0 0 0
+bid_(farewell) bid/bade bidden 0 0 0
+bid_(offer_amount) bid bid 0 0 0
+bind bound bound 0 0 0
+bite bit bitten 0 0 0
+bleed bled bled 0 0 0
+blow blew blown 0 0 0
+break broke broken 0 0 0
+breed bred bred 0 0 0
+bring brought brought 0 0 0
+broadcast broadcast/broadcasted broadcast/broadcasted 0 0 0
+browbeat browbeat browbeaten/browbeat 0 0 0
+build built built 0 0 0
+burn burned/burnt burned/burnt 0 0 0
+burst burst burst 0 0 0
+bust busted/bust busted/bust 0 0 0
+buy bought bought 0 0 0
+cast cast cast 0 0 0
+catch caught caught 0 0 0
+choose chose chosen 0 0 0
+cling clung clung 0 0 0
+clothe clothed/clad clothed/clad 0 0 0
+come came come 0 0 0
+cost cost cost 0 0 0
+creep crept crept 0 0 0
+crossbreed crossbred crossbred 0 0 0
+cut cut cut 0 0 0
+daydream daydreamed/daydreamt daydreamed/daydreamt 0 0 0
+deal dealt dealt 0 0 0
+dig dug dug 0 0 0
+disprove disproved disproved/disproven 0 0 0
+dive_(jump_head-first) dove/dived dived 0 0 0
+dive_(scuba_diving) dived/dove dived 0 0 0
+do did done 0 0 0
+draw drew drawn 0 0 0
+dream dreamed/dreamt dreamed/dreamt 0 0 0
+drink drank drunk 0 0 0
+drive drove driven 0 0 0
+dwell dwelt/dwelled dwelt/dwelled 0 0 0
+eat ate eaten 0 0 0
+fall fell fallen 0 0 0
+feed fed fed 0 0 0
+feel felt felt 0 0 0
+fight fought fought 0 0 0
+find found found 0 0 0
+fit_(tailor,_change_size) fitted/fit fitted/fit 0 0 0
+fit_(be_right_size) fit/fitted_ fit/fitted 0 0 0
+flee fled fled 0 0 0
+fling flung flung 0 0 0
+fly flew flown 0 0 0
+forbid forbade forbidden 0 0 0
+forecast forecast forecast 0 0 0
+forego_(also_forgo) forewent foregone 0 0 0
+foresee foresaw foreseen 0 0 0
+foretell foretold foretold 0 0 0
+forget forgot forgotten/forgot 0 0 0
+forgive forgave forgiven 0 0 0
+forsake forsook forsaken 0 0 0
+freeze froze frozen 0 0 0
+frostbite frostbit frostbitten 0 0 0
+get got gotten/got 0 0 0
+give gave given 0 0 0
+go went gone 0 0 0
+grind ground ground 0 0 0
+grow grew grown 0 0 0
+hand-feed hand-fed hand-fed 0 0 0
+handwrite handwrote handwritten 0 0 0
+hang hung hung 0 0 0
+have had had 0 0 0
+hear heard heard 0 0 0
+hew hewed hewn/hewed 0 0 0
+hide hid hidden 0 0 0
+hit hit hit 0 0 0
+hold held held 0 0 0
+hurt hurt hurt 0 0 0
+inbreed inbred inbred 0 0 0
+inlay inlaid inlaid 0 0 0
+input input/inputted input/inputted 0 0 0
+interbreed interbred interbred 0 0 0
+interweave interwove/interweaved interwoven/interweaved 0 0 0
+interwind interwound interwound 0 0 0
+jerry-build jerry-built jerry-built 0 0 0
+keep kept kept 0 0 0
+kneel knelt/kneeled knelt/kneeled 0 0 0
+knit knitted/knit knitted/knit 0 0 0
+know knew known 0 0 0
+lay laid laid 0 0 0
+lead led led 0 0 0
+lean leaned/leant leaned/leant 0 0 0
+leap leaped/leapt leaped/leapt 0 0 0
+learn learned/learnt learned/learnt 0 0 0
+leave left left 0 0 0
+lend lent lent 0 0 0
+let let let 0 0 0
+lie lay lain 0 0 0
+lie_(not_tell_truth)_REGULAR lied lied 0 0 0
+light lit/lighted lit/lighted 0 0 0
+lip-read lip-read lip-read 0 0 0
+lose lost lost 0 0 0
+make made made 0 0 0
+mean meant meant 0 0 0
+meet met met 0 0 0
+miscast miscast miscast 0 0 0
+misdeal misdealt misdealt 0 0 0
+misdo misdid misdone 0 0 0
+mishear misheard misheard 0 0 0
+mislay mislaid mislaid 0 0 0
+mislead misled misled 0 0 0
+mislearn mislearned/mislearnt mislearned/mislearnt 0 0 0
+misread misread misread 0 0 0
+misset misset misset 0 0 0
+misspeak misspoke misspoken 0 0 0
+misspell misspelled/misspelt misspelled/misspelt 0 0 0
+misspend misspent misspent 0 0 0
+mistake mistook mistaken 0 0 0
+misteach mistaught mistaught 0 0 0
+misunderstand misunderstood misunderstood 0 0 0
+miswrite miswrote miswritten 0 0 0
+mow mowed mowed/mown 0 0 0
+offset offset offset 0 0 0
+outbid outbid outbid 0 0 0
+outbreed outbred outbred 0 0 0
+outdo outdid outdone 0 0 0
+outdraw outdrew outdrawn 0 0 0
+outdrink outdrank outdrunk 0 0 0
+outdrive outdrove outdriven 0 0 0
+outfight outfought outfought 0 0 0
+outfly outflew outflown 0 0 0
+outgrow outgrew outgrown 0 0 0
+outleap outleaped/outleapt outleaped/outleapt 0 0 0
+outlie_(not_tell_truth)_REGULAR outlied outlied 0 0 0
+outride outrode outridden 0 0 0
+outrun outran outrun 0 0 0
+outsell outsold outsold 0 0 0
+outshine outshined/outshone outshined/outshone 0 0 0
+outshoot outshot outshot 0 0 0
+outsing outsang outsung 0 0 0
+outsit outsat outsat 0 0 0
+outsleep outslept outslept 0 0 0
+outsmell outsmelled/outsmelt outsmelled/outsmelt 0 0 0
+outspeak outspoke outspoken 0 0 0
+outspeed outsped outsped 0 0 0
+outspend outspent outspent 0 0 0
+outswear outswore outsworn 0 0 0
+outswim outswam outswum 0 0 0
+outthink outthought outthought 0 0 0
+outthrow outthrew outthrown 0 0 0
+outwrite outwrote outwritten 0 0 0
+overbid overbid overbid 0 0 0
+overbreed overbred overbred 0 0 0
+overbuild overbuilt overbuilt 0 0 0
+overbuy overbought overbought 0 0 0
+overcome overcame overcome 0 0 0
+overdo overdid overdone 0 0 0
+overdraw overdrew overdrawn 0 0 0
+overdrink overdrank overdrunk 0 0 0
+overeat overate overeaten 0 0 0
+overfeed overfed overfed 0 0 0
+overhang overhung overhung 0 0 0
+overhear overheard overheard 0 0 0
+overlay overlaid overlaid 0 0 0
+overpay overpaid overpaid 0 0 0
+override overrode overridden 0 0 0
+overrun overran overrun 0 0 0
+oversee oversaw overseen 0 0 0
+oversell oversold oversold 0 0 0
+oversew oversewed oversewn/oversewed 0 0 0
+overshoot overshot overshot 0 0 0
+oversleep overslept overslept 0 0 0
+overspeak overspoke overspoken 0 0 0
+overspend overspent overspent 0 0 0
+overspill overspilled/overspilt overspilled/overspilt 0 0 0
+overtake overtook overtaken 0 0 0
+overthink overthought overthought 0 0 0
+overthrow overthrew overthrown 0 0 0
+overwind overwound overwound 0 0 0
+overwrite overwrote overwritten 0 0 0
+partake partook partaken 0 0 0
+pay paid paid 0 0 0
+plead pleaded/pled pleaded/pled 0 0 0
+prebuild prebuilt prebuilt 0 0 0
+predo predid predone 0 0 0
+premake premade premade 0 0 0
+prepay prepaid prepaid 0 0 0
+presell presold presold 0 0 0
+preset preset preset 0 0 0
+preshrink preshrank preshrunk 0 0 0
+proofread proofread proofread 0 0 0
+prove proved proven/proved 0 0 0
+put put put 0 0 0
+quick-freeze quick-froze quick-frozen 0 0 0
+quit quit/quitted quit/quitted 0 0 0
+read read read 0 0 0
+reawake reawoke reawaken 0 0 0
+rebid rebid rebid 0 0 0
+rebind rebound rebound 0 0 0
+rebroadcast rebroadcast/rebroadcasted rebroadcast/rebroadcasted 0 0 0
+rebuild rebuilt rebuilt 0 0 0
+recast recast recast 0 0 0
+recut recut recut 0 0 0
+redeal redealt redealt 0 0 0
+redo redid redone 0 0 0
+redraw redrew redrawn 0 0 0
+refit_(replace_parts) refit/refitted refit/refitted 0 0 0
+refit_(retailor) refitted/refit refitted/refit 0 0 0
+regrind reground reground 0 0 0
+regrow regrew regrown 0 0 0
+rehang rehung rehung 0 0 0
+rehear reheard reheard 0 0 0
+reknit reknitted/reknit reknitted/reknit 0 0 0
+relay_(for_example_tiles) relaid relaid 0 0 0
+relay_(pass_along)_REGULAR relayed relayed 0 0 0
+relearn relearned/relearnt relearned/relearnt 0 0 0
+relight relit/relighted relit/relighted 0 0 0
+remake remade remade 0 0 0
+repay repaid repaid 0 0 0
+reread reread reread 0 0 0
+rerun reran rerun 0 0 0
+resell resold resold 0 0 0
+resend resent resent 0 0 0
+reset reset reset 0 0 0
+resew resewed resewn/resewed 0 0 0
+retake retook retaken 0 0 0
+reteach retaught retaught 0 0 0
+retear retore retorn 0 0 0
+retell retold retold 0 0 0
+rethink rethought rethought 0 0 0
+retread retread retread 0 0 0
+retrofit retrofitted/retrofit retrofitted/retrofit 0 0 0
+rewake rewoke/rewaked rewaken/rewaked 0 0 0
+rewear rewore reworn 0 0 0
+reweave rewove/reweaved rewoven/reweaved 0 0 0
+rewed rewed/rewedded rewed/rewedded 0 0 0
+rewet rewet/rewetted rewet/rewetted 0 0 0
+rewin rewon rewon 0 0 0
+rewind rewound rewound 0 0 0
+rewrite rewrote rewritten 0 0 0
+rid rid rid 0 0 0
+ride rode ridden 0 0 0
+ring rang rung 0 0 0
+rise rose risen 0 0 0
+roughcast roughcast roughcast 0 0 0
+run ran run 0 0 0
+sand-cast sand-cast sand-cast 0 0 0
+saw sawed sawed/sawn 0 0 0
+say said said 0 0 0
+see saw seen 0 0 0
+seek sought sought 0 0 0
+sell sold sold 0 0 0
+send sent sent 0 0 0
+set set set 0 0 0
+sew sewed sewn/sewed 0 0 0
+shake shook shaken 0 0 0
+shave shaved shaved/shaven 0 0 0
+shear sheared sheared/shorn 0 0 0
+shed shed shed 0 0 0
+shine shined/shone shined/shone 0 0 0
+shit shit/shat/shitted shit/_shat/shitted 0 0 0
+shoot shot shot 0 0 0
+show showed shown/showed 0 0 0
+shrink shrank/shrunk shrunk 0 0 0
+shut shut shut 0 0 0
+sight-read sight-read sight-read 0 0 0
+sing sang sung 0 0 0
+sink sank/sunk sunk 0 0 0
+sit sat sat 0 0 0
+slay_(kill) slew/slayed slain/slayed 0 0 0
+slay_(amuse)_REGULAR slayed slayed 0 0 0
+sleep slept slept 0 0 0
+slide slid slid 0 0 0
+sling slung slung 0 0 0
+slink slinked/slunk slinked/slunk 0 0 0
+slit slit slit 0 0 0
+smell smelled/smelt smelled/smelt 0 0 0
+sneak sneaked/snuck sneaked/snuck 0 0 0
+sow sowed sown/sowed 0 0 0
+speak spoke spoken 0 0 0
+speed sped/speeded sped/speeded 0 0 0
+spell spelled/spelt spelled/spelt 0 0 0
+spend spent spent 0 0 0
+spill spilled/spilt spilled/spilt 0 0 0
+spin spun spun 0 0 0
+spit spit/spat spit/spat 0 0 0
+split split split 0 0 0
+spoil spoiled/spoilt spoiled/spoilt 0 0 0
+spoon-feed spoon-fed spoon-fed 0 0 0
+spread spread spread 0 0 0
+spring sprang/sprung sprung 0 0 0
+stand stood stood 0 0 0
+steal stole stolen 0 0 0
+stick stuck stuck 0 0 0
+sting stung stung 0 0 0
+stink stunk/stank stunk 0 0 0
+strew strewed strewn/strewed 0 0 0
+stride strode stridden 0 0 0
+strike_(delete) struck stricken 0 0 0
+strike_(hit) struck struck/stricken 0 0 0
+string strung strung 0 0 0
+strive strove/strived striven/strived 0 0 0
+sublet sublet sublet 0 0 0
+sunburn sunburned/sunburnt sunburned/sunburnt 0 0 0
+swear swore sworn 0 0 0
+sweat sweat/sweated sweat/sweated 0 0 0
+sweep swept swept 0 0 0
+swell swelled swollen/swelled 0 0 0
+swim swam swum 0 0 0
+swing swung swung 0 0 0
+take took taken 0 0 0
+teach taught taught 0 0 0
+tear tore torn 0 0 0
+telecast telecast telecast 0 0 0
+tell told told 0 0 0
+test-drive test-drove test-driven 0 0 0
+test-fly test-flew test-flown 0 0 0
+think thought thought 0 0 0
+throw threw thrown 0 0 0
+thrust thrust thrust 0 0 0
+tread trod trodden/trod 0 0 0
+typecast typecast typecast 0 0 0
+typeset typeset typeset 0 0 0
+typewrite typewrote typewritten 0 0 0
+unbend unbent unbent 0 0 0
+unbind unbound unbound 0 0 0
+unclothe unclothed/unclad unclothed/unclad 0 0 0
+underbid underbid underbid 0 0 0
+undercut undercut undercut 0 0 0
+underfeed underfed underfed 0 0 0
+undergo underwent undergone 0 0 0
+underlie underlay underlain 0 0 0
+undersell undersold undersold 0 0 0
+underspend underspent underspent 0 0 0
+understand understood understood 0 0 0
+undertake undertook undertaken 0 0 0
+underwrite underwrote underwritten 0 0 0
+undo undid undone 0 0 0
+unfreeze unfroze unfrozen 0 0 0
+unhang unhung unhung 0 0 0
+unhide unhid unhidden 0 0 0
+unknit unknitted/unknit unknitted/unknit 0 0 0
+unlearn unlearned/unlearnt unlearned/unlearnt 0 0 0
+unsew unsewed unsewn/unsewed 0 0 0
+unsling unslung unslung 0 0 0
+unspin unspun unspun 0 0 0
+unstick unstuck unstuck 0 0 0
+unstring unstrung unstrung 0 0 0
+unweave unwove/unweaved unwoven/unweaved 0 0 0
+unwind unwound unwound 0 0 0
+uphold upheld upheld 0 0 0
+upset upset upset 0 0 0
+wake woke/waked woken/waked 0 0 0
+waylay waylaid waylaid 0 0 0
+wear wore worn 0 0 0
+weave wove/weaved woven/weaved 0 0 0
+wed wed/wedded wed/wedded 0 0 0
+weep wept wept 0 0 0
+wet wet/wetted wet/wetted 0 0 0
+whet_REGULAR whetted whetted 0 0 0
+win won won 0 0 0
+wind wound wound 0 0 0
+withdraw withdrew withdrawn 0 0 0
+withhold withheld withheld 0 0 0
+withstand withstood withstood 0 0 0
+wring wrung wrung 0 0 0
+write wrote written 0 0 0

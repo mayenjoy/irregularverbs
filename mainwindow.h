@@ -19,16 +19,15 @@ public:
     explicit MainWindow(QWidget *parent = 0);
     ~MainWindow();
     static QList<IrregularVerb> irregularVerbList;
+	QList<IrregularVerb> failedRecentlyList;
 
 private:
     Ui::MainWindow *ui;
     IrregularVerb currentIrregularVerb;
 
 private slots:
-    void on_lineEditTranslation_returnPressed();
     void on_lineEditPastParticiple_returnPressed();
-    void on_lineEditPast_returnPressed();
-    void on_lineEditTranslation_textChanged(QString );
+	void on_lineEditPast_returnPressed();
     void on_lineEditPastParticiple_textChanged(QString );
     void on_lineEditPast_textChanged(QString );
     void on_pushButtonSkipThis_clicked();
