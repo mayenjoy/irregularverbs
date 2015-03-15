@@ -1,0 +1,1 @@
+This project is a Qt Creator project. It uses Qt for GUI.
